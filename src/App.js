@@ -40,7 +40,7 @@ function App() {
           <h1>
             Angelo Benavidez
           </h1>
-          <p>Reto 1, Unidad 3</p>
+          <p>Reto 1-Unidad3</p>
         </div>
 
 

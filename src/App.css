@@ -36,3 +36,18 @@
     transform: rotate(360deg);
   }
 }
+
+.pokegallery{
+  
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-start;
+    align-content: space-between;
+    margin: 50px;
+}
+
+.card{
+  margin: 15px;
+  border-radius: 50px;
+box-shadow: 6px 10px 5px 0px rgba(199,197,199,0.75);
+}

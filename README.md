@@ -16,10 +16,6 @@ The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
 
 =======
-# pokeapi
-Reto 1 de la unidad 3-NTP
->>>>>>> 7c6c7bd338948be70fa36d1da4267c4f69c5315b
-=======
 # abpokeapi
 Reto 1 de la unidad 3
 >>>>>>> 4c5786e26ea9dd6cb9144c0e1be3fc1a496ffcbd
